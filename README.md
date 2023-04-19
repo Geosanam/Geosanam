@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Geosanam
 - 👀 I’m interested in WEB GIS
-- 🌱 I’m currently learning html, css and javascript.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Geosanam/Geosanam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
